@@ -211,7 +211,7 @@ header nav .form:hover > i{
 .landing{
     min-height: 100vh;
     background-color:#1f2021;
-    background-image: url(/img/landing.jpg);
+    background-image: url(./img/landing.jpg);
     background-size:cover;
     position: relative;
 }
